@@ -33,3 +33,8 @@ The SDKs used in this app are :
   ```android
   compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.1'
   ```
+
+Screen Shots
+
+![Alt text](/../master/screenshots/screen1.jpg?raw=true "Screen 1")
+![Alt text](/../master/screenshots/screen2.jpg?raw=true "Screen 2")
